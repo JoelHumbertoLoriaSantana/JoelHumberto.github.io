@@ -2,7 +2,7 @@
 #
 # Stylish and feature-rich theme for Jekyll
 # 
-# Website: https://github.com/SdtElectronics/jekyll-theme-antarctica
+# Website: https://github.com/joelhumbertoloriasantana/jekyll-theme-antarctica
 #
 # See the LICENCE file.
 #
@@ -19,8 +19,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Theme Antarctica
-email: your-email@domain.com
+title: Joel Loria
+email: joelloriasantana@gmail.com
 author: joelhumbertoloriasantana
 
 # Copyright setting
